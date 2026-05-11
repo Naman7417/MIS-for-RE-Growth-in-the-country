@@ -1,0 +1,7 @@
+beautifulsoup4>=4.12
+lxml>=5.3
+openpyxl>=3.1
+pandas>=2.3
+playwright>=1.50
+python-dateutil>=2.9
+requests>=2.32

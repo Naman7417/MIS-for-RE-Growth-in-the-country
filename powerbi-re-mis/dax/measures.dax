@@ -1,0 +1,56 @@
+-- Core capacity
+Total RE Capacity GW =
+SUM ( 'RE Installed Capacity Technology'[cumulative_gw] )
+
+Solar Capacity GW =
+CALCULATE ( [Total RE Capacity GW], 'RE Installed Capacity Technology'[technology] = "Solar" )
+
+Wind Capacity GW =
+CALCULATE ( [Total RE Capacity GW], 'RE Installed Capacity Technology'[technology] = "Wind" )
+
+Hydro Capacity GW =
+CALCULATE ( [Total RE Capacity GW], 'RE Installed Capacity Technology'[technology] = "Hydro" )
+
+Bioenergy Capacity GW =
+CALCULATE ( [Total RE Capacity GW], 'RE Installed Capacity Technology'[technology] = "Bioenergy" )
+
+Annual RE Addition GW =
+SUM ( 'Annual RE Capacity Addition'[capacity_addition_gw] )
+
+Latest Refresh UTC =
+MAX ( 'Refresh Manifest'[refreshed_at_utc] )
+
+Refresh Error Count =
+COUNTROWS ( 'Refresh Errors' )
+
+-- Use once total installed capacity from CEA is normalized into a fact table.
+RE Share of Total Capacity % =
+DIVIDE ( [Total RE Capacity GW], [Total Installed Capacity GW] )
+
+-- Placeholder measure. Replace table name after the CEA installed-capacity parser is mapped to the latest report structure.
+Total Installed Capacity GW =
+SUM ( 'CEA Installed Capacity'[installed_capacity_gw] )
+
+-- CAGR from FY 2014 to selected latest fiscal year.
+RE Capacity CAGR % =
+VAR StartCapacityGW =
+    [Total RE Capacity GW] - SUM ( 'RE CAGR Summary'[annual_addition_total_gw] )
+VAR EndCapacityGW =
+    [Total RE Capacity GW]
+VAR Years =
+    MAX ( 'RE CAGR Summary'[periods] )
+RETURN
+    IF (
+        StartCapacityGW > 0 && EndCapacityGW > 0 && Years > 0,
+        POWER ( DIVIDE ( EndCapacityGW, StartCapacityGW ), DIVIDE ( 1, Years ) ) - 1
+    )
+
+-- Dynamic dashboard source counts
+PM Surya Ghar Data Rows =
+COUNTROWS ( 'PM Surya Ghar Tables' ) + COUNTROWS ( 'PM Surya Ghar Visible Text' )
+
+PM KUSUM Data Rows =
+COUNTROWS ( 'PM KUSUM Tables' ) + COUNTROWS ( 'PM KUSUM Visible Text' )
+
+NSGM Data Rows =
+COUNTROWS ( 'NSGM Smart Meter Tables' ) + COUNTROWS ( 'NSGM Smart Meter Visible Text' )

@@ -1,0 +1,36 @@
+name: RE MIS data refresh
+
+on:
+  schedule:
+    - cron: "0 0 */3 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r powerbi-re-mis/requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Refresh source data
+        run: python powerbi-re-mis/scripts/fetch_re_mis_data.py
+
+      - name: Commit refreshed data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Refresh RE MIS source data"
+          file_pattern: powerbi-re-mis/data/*.csv
