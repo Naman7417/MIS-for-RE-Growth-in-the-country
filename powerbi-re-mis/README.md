@@ -64,3 +64,17 @@ python powerbi-re-mis\scripts\fetch_re_mis_data.py
 ## Refresh note
 
 The GitHub source refresh is scheduled once every 3 days. If Power BI Service does not offer an exact 3-day interval in your workspace, schedule Power BI less frequently than the GitHub job or trigger report refresh manually after the GitHub workflow completes.
+
+## Avoiding GitHub raw 400 errors
+
+The raw base URL is a prefix used by Power Query and is not a browsable folder. Opening only the base URL may return:
+
+```text
+400: invalid request
+```
+
+Test a real CSV file URL instead:
+
+```text
+https://raw.githubusercontent.com/<owner>/<repo>/<branch>/powerbi-re-mis/data/refresh_manifest.csv
+```
