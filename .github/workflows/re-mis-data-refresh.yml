@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 0 */3 * *"
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/re-mis-data-refresh.yml"
+      - "powerbi-re-mis/scripts/fetch_re_mis_data.py"
+      - "powerbi-re-mis/requirements.txt"
 
 permissions:
   contents: write
