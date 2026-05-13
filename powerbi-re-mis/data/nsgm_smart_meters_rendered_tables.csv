@@ -1,37 +1,37 @@
 sl,nodal_agency,state,discom,scheme,total_sanctioned,awarded,deployment_commencement,amisp_si,apr_2026_achievement,cumulative_achievement,progress,source,source_table,source_url,retrieved_at_utc
-1.0,PFC,Andhra Pradesh,APSPDCL,RDSS,2302644,2308432,October 2023,"Multiple — Shiridi Sai Electricals, Adani Transmission",60676,1015829,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-2.0,PFC,Andhra Pradesh,APCPDCL,RDSS,2050962,2107391,December 2023,"Multiple — Shiridi Sai Electricals, Adani Transmission",76741,1017895,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-3.0,PFC,Andhra Pradesh,APEPDCL,RDSS,1255240,1255240,December 2023,"Multiple — Shiridi Sai Electricals, AESL",51000,830430,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-4.0,PFC,Uttarakhand,UPCL,RDSS,1587870,1587870,November 2024,"Multiple — Genus, Adani Transmission",37047,550243,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-5.0,PFC,Gujarat,DGVCL,RDSS,4078120,4080120,January 2024,IntelliSmart,65206,1158190,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-6.0,PFC,Gujarat,MGVCL,RDSS,3299991,3299991,January 2024,IntelliSmart,72069,1216414,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-7.0,PFC,Gujarat,PGVCL,RDSS,5583509,5568509,January 2024,"Multiple — Apraava Energy, Bharat Grid",48901,592659,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-8.0,PFC,Gujarat,UGVCL,RDSS,3525480,3525480,January 2024,Iskraemeco,73866,1432823,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-9.0,PFC,Himachal Pradesh,HPSEBL,RDSS,2800945,2876187,September 2024,Apraava Energy,38491,881374,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-10.0,PFC,Jharkhand,JBVNL,RDSS,1341306,1341306,December 2024,"Multiple — Gemstar Infra, Bentec India",36677,723395,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-nan,nan,Total:,nan,nan,224279749,150656408,nan,nan,3509371,65044213,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-nan,nan,Page Total:,nan,nan,27826067,27950526,nan,nan,560674,9419252,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-1.0,PFC,Andhra Pradesh,APSPDCL,RDSS,102246,102246,October 2024,Adani Transmission,1872,32667,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-2.0,PFC,Andhra Pradesh,APCPDCL,RDSS,113650,113650,November 2024,Adani,4103,48512,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-3.0,PFC,Andhra Pradesh,APEPDCL,RDSS,77244,77244,November 2024,"Multiple — SSEL, AESL",2824,40837,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-4.0,PFC,Uttarakhand,UPCL,RDSS,59212,59212,November 2024,"Multiple — Genus, Adani",534,9904,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-5.0,PFC,Gujarat,DGVCL,RDSS,82336,83836,March 2024,Intellismart,3696,44852,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-6.0,PFC,Gujarat,MGVCL,RDSS,56129,56129,March 2024,Intellismart,1783,36314,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-7.0,PFC,Gujarat,PGVCL,RDSS,109130,124130,March 2024,"Multiple — Apraava Energy, Bharat Grid",3923,59694,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-8.0,PFC,Gujarat,UGVCL,RDSS,52892,52892,August 2024,Iskraemeco,1936,23147,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-9.0,PFC,Himachal Pradesh,HPSEBL,RDSS,39012,39826,October 2024,Apraava,495,26461,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-10.0,PFC,Jharkhand,JBVNL,RDSS,19512,19512,March 2025,"Multiple — Gemstar Infra, Techno",46,1340,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-nan,nan,Total:,nan,nan,5319521,4943714,nan,nan,76800,1725367,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-nan,nan,Page Total:,nan,nan,711363,728677,nan,nan,21212,323728,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-1.0,PFC,Andhra Pradesh,APSPDCL,RDSS,9741,9741,May 2024,Adani Transmission,73,6589,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-2.0,PFC,Andhra Pradesh,APCPDCL,RDSS,3726,3726,July 2024,Adani,,602,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-3.0,PFC,Andhra Pradesh,APEPDCL,RDSS,3891,3891,August 2024,SSEL,359,3516,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-4.0,PFC,Uttarakhand,UPCL,RDSS,2602,2602,November 2024,"Multiple — Adani Transmission, Genus",9,2513,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-5.0,PFC,Himachal Pradesh,HPSEBL,RDSS,1951,2419,November 2024,Apraava,4,1660,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-6.0,PFC,Jharkhand,JBVNL,RDSS,1226,1226,December 2024,Gemstar Infra,2,887,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-7.0,PFC,Kerala,KSEBL,RDSS,6003,4200,August 2025,Iskraeameco,,2886,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-8.0,PFC,Kerala,TCED,RDSS,22,20,November 2025,Iskraeameco,,20,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-9.0,PFC,Madhya Pradesh,MP-Central​,RDSS,9477,9477,February 2025,Alfanar Power,330,8971,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-10.0,PFC,Madhya Pradesh,MP-West​,RDSS,9811,9811,July 2024,Techno AMI,,9811,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-nan,nan,Total:,nan,nan,206929,197070,nan,nan,1854,184165,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
-nan,nan,Page Total:,nan,nan,48450,47113,nan,nan,777,37455,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-12T16:32:48+00:00
+1.0,PFC,Andhra Pradesh,APSPDCL,RDSS,2302644,2308432,October 2023,"Multiple — Shiridi Sai Electricals, Adani Transmission",60676,1015829,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+2.0,PFC,Andhra Pradesh,APCPDCL,RDSS,2050962,2107391,December 2023,"Multiple — Shiridi Sai Electricals, Adani Transmission",76741,1017895,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+3.0,PFC,Andhra Pradesh,APEPDCL,RDSS,1255240,1255240,December 2023,"Multiple — Shiridi Sai Electricals, AESL",51000,830430,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+4.0,PFC,Uttarakhand,UPCL,RDSS,1587870,1587870,November 2024,"Multiple — Genus, Adani Transmission",37047,550243,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+5.0,PFC,Gujarat,DGVCL,RDSS,4078120,4080120,January 2024,IntelliSmart,65206,1158190,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+6.0,PFC,Gujarat,MGVCL,RDSS,3299991,3299991,January 2024,IntelliSmart,72069,1216414,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+7.0,PFC,Gujarat,PGVCL,RDSS,5583509,5568509,January 2024,"Multiple — Apraava Energy, Bharat Grid",48901,592659,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+8.0,PFC,Gujarat,UGVCL,RDSS,3525480,3525480,January 2024,Iskraemeco,73866,1432823,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+9.0,PFC,Himachal Pradesh,HPSEBL,RDSS,2800945,2876187,September 2024,Apraava Energy,38491,881374,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+10.0,PFC,Jharkhand,JBVNL,RDSS,1341306,1341306,December 2024,"Multiple — Gemstar Infra, Bentec India",36677,723395,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+nan,nan,Total:,nan,nan,224279749,150656408,nan,nan,3509371,65044213,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+nan,nan,Page Total:,nan,nan,27826067,27950526,nan,nan,560674,9419252,nan,nsgm_smart_meters,1,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+1.0,PFC,Andhra Pradesh,APSPDCL,RDSS,102246,102246,October 2024,Adani Transmission,1872,32667,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+2.0,PFC,Andhra Pradesh,APCPDCL,RDSS,113650,113650,November 2024,Adani,4103,48512,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+3.0,PFC,Andhra Pradesh,APEPDCL,RDSS,77244,77244,November 2024,"Multiple — SSEL, AESL",2824,40837,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+4.0,PFC,Uttarakhand,UPCL,RDSS,59212,59212,November 2024,"Multiple — Genus, Adani",534,9904,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+5.0,PFC,Gujarat,DGVCL,RDSS,82336,83836,March 2024,Intellismart,3696,44852,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+6.0,PFC,Gujarat,MGVCL,RDSS,56129,56129,March 2024,Intellismart,1783,36314,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+7.0,PFC,Gujarat,PGVCL,RDSS,109130,124130,March 2024,"Multiple — Apraava Energy, Bharat Grid",3923,59694,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+8.0,PFC,Gujarat,UGVCL,RDSS,52892,52892,August 2024,Iskraemeco,1936,23147,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+9.0,PFC,Himachal Pradesh,HPSEBL,RDSS,39012,39826,October 2024,Apraava,495,26461,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+10.0,PFC,Jharkhand,JBVNL,RDSS,19512,19512,March 2025,"Multiple — Gemstar Infra, Techno",46,1340,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+nan,nan,Total:,nan,nan,5319521,4943714,nan,nan,76800,1725367,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+nan,nan,Page Total:,nan,nan,711363,728677,nan,nan,21212,323728,nan,nsgm_smart_meters,2,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+1.0,PFC,Andhra Pradesh,APSPDCL,RDSS,9741,9741,May 2024,Adani Transmission,73,6589,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+2.0,PFC,Andhra Pradesh,APCPDCL,RDSS,3726,3726,July 2024,Adani,,602,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+3.0,PFC,Andhra Pradesh,APEPDCL,RDSS,3891,3891,August 2024,SSEL,359,3516,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+4.0,PFC,Uttarakhand,UPCL,RDSS,2602,2602,November 2024,"Multiple — Adani Transmission, Genus",9,2513,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+5.0,PFC,Himachal Pradesh,HPSEBL,RDSS,1951,2419,November 2024,Apraava,4,1660,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+6.0,PFC,Jharkhand,JBVNL,RDSS,1226,1226,December 2024,Gemstar Infra,2,887,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+7.0,PFC,Kerala,KSEBL,RDSS,6003,4200,August 2025,Iskraeameco,,2886,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+8.0,PFC,Kerala,TCED,RDSS,22,20,November 2025,Iskraeameco,,20,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+9.0,PFC,Madhya Pradesh,MP-Central​,RDSS,9477,9477,February 2025,Alfanar Power,330,8971,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+10.0,PFC,Madhya Pradesh,MP-West​,RDSS,9811,9811,July 2024,Techno AMI,,9811,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+nan,nan,Total:,nan,nan,206929,197070,nan,nan,1854,184165,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
+nan,nan,Page Total:,nan,nan,48450,47113,nan,nan,777,37455,nan,nsgm_smart_meters,3,https://www.nsgm.gov.in/en/sm-stats-all,2026-05-13T01:56:45+00:00
