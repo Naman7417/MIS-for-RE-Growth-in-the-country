@@ -1,100 +1,100 @@
 source,fiscal_year,technology_raw,technology,capacity_addition_mw,capacity_addition_gw,retrieved_at_utc,source_url
-MNRE year-wise achievement,2014,Wind Power,Wind,21042.58,21.0426,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014-15,Wind Power,Wind,2311.77,2.3118,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2015-16,Wind Power,Wind,3423.05,3.4231,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2016-17,Wind Power,Wind,5502.37,5.5024,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2017-18,Wind Power,Wind,1865.23,1.8652,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2018-19,Wind Power,Wind,1480.97,1.481,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2019-20,Wind Power,Wind,2117.79,2.1178,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2020-21,Wind Power,Wind,1503.3,1.5033,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2021-22,Wind Power,Wind,1110.53,1.1105,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2022-23,Wind Power,Wind,2275.55,2.2755,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2023-24,Wind Power,Wind,3253.38,3.2534,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2024-25,Wind Power,Wind,4151.31,4.1513,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026-27-1st-apr-2026-31st-march-2027,Wind Power,Wind,341.42,0.3414,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026,Wind Power,Wind,56436.59,56.4366,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014,Solar Power,Solar,2821.91,2.8219,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014-15,Solar Power,Solar,1171.62,1.1716,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2015-16,Solar Power,Solar,3130.36,3.1304,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2016-17,Solar Power,Solar,5658.63,5.6586,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2017-18,Solar Power,Solar,9563.69,9.5637,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2018-19,Solar Power,Solar,6750.97,6.751,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2019-20,Solar Power,Solar,6510.06,6.5101,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2020-21,Solar Power,Solar,5628.8,5.6288,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2021-22,Solar Power,Solar,12760.5,12.7605,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2022-23,Solar Power,Solar,12783.8,12.7838,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2023-24,Solar Power,Solar,15033.24,15.0332,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2024-25,Solar Power,Solar,23832.87,23.8329,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026-27-1st-apr-2026-31st-march-2027,Solar Power,Solar,3975.42,3.9754,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026,Solar Power,Solar,154236.11,154.2361,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014,Small Hydro Power,Hydro,3803.68,3.8037,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014-15,Small Hydro Power,Hydro,251.68,0.2517,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2015-16,Small Hydro Power,Hydro,218.11,0.2181,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2016-17,Small Hydro Power,Hydro,106.38,0.1064,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2017-18,Small Hydro Power,Hydro,105.95,0.106,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2018-19,Small Hydro Power,Hydro,107.34,0.1073,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2019-20,Small Hydro Power,Hydro,90.01,0.09,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2020-21,Small Hydro Power,Hydro,103.65,0.1037,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2021-22,Small Hydro Power,Hydro,62.09,0.0621,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2022-23,Small Hydro Power,Hydro,95.4,0.0954,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2023-24,Small Hydro Power,Hydro,58.95,0.059,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2024-25,Small Hydro Power,Hydro,97.3,0.0973,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026,Small Hydro Power,Hydro,5171.36,5.1714,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014,Biomass (Bagasse) Cogeneration,Bioenergy,7419.23,7.4192,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014-15,Biomass (Bagasse) Cogeneration,Bioenergy,295.67,0.2957,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2015-16,Biomass (Bagasse) Cogeneration,Bioenergy,304.85,0.3049,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2016-17,Biomass (Bagasse) Cogeneration,Bioenergy,161.95,0.1619,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2017-18,Biomass (Bagasse) Cogeneration,Bioenergy,519.1,0.5191,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2018-19,Biomass (Bagasse) Cogeneration,Bioenergy,402.7,0.4027,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2019-20,Biomass (Bagasse) Cogeneration,Bioenergy,97.0,0.097,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2020-21,Biomass (Bagasse) Cogeneration,Bioenergy,173.37,0.1734,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2021-22,Biomass (Bagasse) Cogeneration,Bioenergy,59.69,0.0597,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2024-25,Biomass (Bagasse) Cogeneration,Bioenergy,387.76,0.3878,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026,Biomass (Bagasse) Cogeneration,Bioenergy,9821.32,9.8213,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014,Biomass(Non-bagasse) Cogeneration,Bioenergy,531.82,0.5318,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014-15,Biomass(Non-bagasse) Cogeneration,Bioenergy,60.05,0.06,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2015-16,Biomass(Non-bagasse) Cogeneration,Bioenergy,59.24,0.0592,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2016-17,Biomass(Non-bagasse) Cogeneration,Bioenergy,2.2,0.0022,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2017-18,Biomass(Non-bagasse) Cogeneration,Bioenergy,9.5,0.0095,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2018-19,Biomass(Non-bagasse) Cogeneration,Bioenergy,12.0,0.012,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2020-21,Biomass(Non-bagasse) Cogeneration,Bioenergy,97.24,0.0972,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2022-23,Biomass(Non-bagasse) Cogeneration,Bioenergy,42.4,0.0424,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2023-24,Biomass(Non-bagasse) Cogeneration,Bioenergy,107.34,0.1073,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026,Biomass(Non-bagasse) Cogeneration,Bioenergy,1047.85,1.0478,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014,Waste to Energy,Bioenergy,90.58,0.0906,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2016-17,Waste to Energy,Bioenergy,23.5,0.0235,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2017-18,Waste to Energy,Bioenergy,24.22,0.0242,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2019-20,Waste to Energy,Bioenergy,9.34,0.0093,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2020-21,Waste to Energy,Bioenergy,21.0,0.021,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2021-22,Waste to Energy,Bioenergy,54.5,0.0545,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2022-23,Waste to Energy,Bioenergy,25.0,0.025,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2023-24,Waste to Energy,Bioenergy,1.6,0.0016,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2024-25,Waste to Energy,Bioenergy,59.6,0.0596,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026,Waste to Energy,Bioenergy,324.24,0.3242,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014,Waste to Energy (Off-grid),Bioenergy,139.79,0.1398,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014-15,Waste to Energy (Off-grid),Bioenergy,9.71,0.0097,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2015-16,Waste to Energy (Off-grid),Bioenergy,5.69,0.0057,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2016-17,Waste to Energy (Off-grid),Bioenergy,11.77,0.0118,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2017-18,Waste to Energy (Off-grid),Bioenergy,5.55,0.0056,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2018-19,Waste to Energy (Off-grid),Bioenergy,6.58,0.0066,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2019-20,Waste to Energy (Off-grid),Bioenergy,19.11,0.0191,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2020-21,Waste to Energy (Off-grid),Bioenergy,20.75,0.0208,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2021-22,Waste to Energy (Off-grid),Bioenergy,34.66,0.0347,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2022-23,Waste to Energy (Off-grid),Bioenergy,52.28,0.0523,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2023-24,Waste to Energy (Off-grid),Bioenergy,30.17,0.0302,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2024-25,Waste to Energy (Off-grid),Bioenergy,194.81,0.1948,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026,Waste to Energy (Off-grid),Bioenergy,553.12,0.5531,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014,Total,Total,35849.59,35.8496,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2014-15,Total,Total,4100.5,4.1005,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2015-16,Total,Total,7141.3,7.1413,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2016-17,Total,Total,11466.81,11.4668,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2017-18,Total,Total,12093.24,12.0932,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2018-19,Total,Total,8760.56,8.7606,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2019-20,Total,Total,8843.31,8.8433,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2020-21,Total,Total,7548.11,7.5481,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2021-22,Total,Total,14081.97,14.082,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2022-23,Total,Total,15274.43,15.2744,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2023-24,Total,Total,18484.68,18.4847,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2024-25,Total,Total,28723.65,28.7237,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026-27-1st-apr-2026-31st-march-2027,Total,Total,4317.17,4.3172,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
-MNRE year-wise achievement,2026,Total,Total,227590.59,227.5906,2026-05-16T01:49:52+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014,Wind Power,Wind,21042.58,21.0426,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014-15,Wind Power,Wind,2311.77,2.3118,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2015-16,Wind Power,Wind,3423.05,3.4231,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2016-17,Wind Power,Wind,5502.37,5.5024,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2017-18,Wind Power,Wind,1865.23,1.8652,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2018-19,Wind Power,Wind,1480.97,1.481,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2019-20,Wind Power,Wind,2117.79,2.1178,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2020-21,Wind Power,Wind,1503.3,1.5033,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2021-22,Wind Power,Wind,1110.53,1.1105,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2022-23,Wind Power,Wind,2275.55,2.2755,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2023-24,Wind Power,Wind,3253.38,3.2534,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2024-25,Wind Power,Wind,4151.31,4.1513,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026-27-1st-apr-2026-31st-march-2027,Wind Power,Wind,341.42,0.3414,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026,Wind Power,Wind,56436.59,56.4366,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014,Solar Power,Solar,2821.91,2.8219,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014-15,Solar Power,Solar,1171.62,1.1716,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2015-16,Solar Power,Solar,3130.36,3.1304,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2016-17,Solar Power,Solar,5658.63,5.6586,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2017-18,Solar Power,Solar,9563.69,9.5637,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2018-19,Solar Power,Solar,6750.97,6.751,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2019-20,Solar Power,Solar,6510.06,6.5101,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2020-21,Solar Power,Solar,5628.8,5.6288,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2021-22,Solar Power,Solar,12760.5,12.7605,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2022-23,Solar Power,Solar,12783.8,12.7838,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2023-24,Solar Power,Solar,15033.24,15.0332,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2024-25,Solar Power,Solar,23832.87,23.8329,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026-27-1st-apr-2026-31st-march-2027,Solar Power,Solar,3975.42,3.9754,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026,Solar Power,Solar,154236.11,154.2361,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014,Small Hydro Power,Hydro,3803.68,3.8037,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014-15,Small Hydro Power,Hydro,251.68,0.2517,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2015-16,Small Hydro Power,Hydro,218.11,0.2181,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2016-17,Small Hydro Power,Hydro,106.38,0.1064,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2017-18,Small Hydro Power,Hydro,105.95,0.106,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2018-19,Small Hydro Power,Hydro,107.34,0.1073,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2019-20,Small Hydro Power,Hydro,90.01,0.09,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2020-21,Small Hydro Power,Hydro,103.65,0.1037,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2021-22,Small Hydro Power,Hydro,62.09,0.0621,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2022-23,Small Hydro Power,Hydro,95.4,0.0954,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2023-24,Small Hydro Power,Hydro,58.95,0.059,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2024-25,Small Hydro Power,Hydro,97.3,0.0973,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026,Small Hydro Power,Hydro,5171.36,5.1714,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014,Biomass (Bagasse) Cogeneration,Bioenergy,7419.23,7.4192,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014-15,Biomass (Bagasse) Cogeneration,Bioenergy,295.67,0.2957,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2015-16,Biomass (Bagasse) Cogeneration,Bioenergy,304.85,0.3049,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2016-17,Biomass (Bagasse) Cogeneration,Bioenergy,161.95,0.1619,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2017-18,Biomass (Bagasse) Cogeneration,Bioenergy,519.1,0.5191,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2018-19,Biomass (Bagasse) Cogeneration,Bioenergy,402.7,0.4027,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2019-20,Biomass (Bagasse) Cogeneration,Bioenergy,97.0,0.097,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2020-21,Biomass (Bagasse) Cogeneration,Bioenergy,173.37,0.1734,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2021-22,Biomass (Bagasse) Cogeneration,Bioenergy,59.69,0.0597,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2024-25,Biomass (Bagasse) Cogeneration,Bioenergy,387.76,0.3878,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026,Biomass (Bagasse) Cogeneration,Bioenergy,9821.32,9.8213,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014,Biomass(Non-bagasse) Cogeneration,Bioenergy,531.82,0.5318,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014-15,Biomass(Non-bagasse) Cogeneration,Bioenergy,60.05,0.06,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2015-16,Biomass(Non-bagasse) Cogeneration,Bioenergy,59.24,0.0592,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2016-17,Biomass(Non-bagasse) Cogeneration,Bioenergy,2.2,0.0022,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2017-18,Biomass(Non-bagasse) Cogeneration,Bioenergy,9.5,0.0095,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2018-19,Biomass(Non-bagasse) Cogeneration,Bioenergy,12.0,0.012,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2020-21,Biomass(Non-bagasse) Cogeneration,Bioenergy,97.24,0.0972,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2022-23,Biomass(Non-bagasse) Cogeneration,Bioenergy,42.4,0.0424,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2023-24,Biomass(Non-bagasse) Cogeneration,Bioenergy,107.34,0.1073,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026,Biomass(Non-bagasse) Cogeneration,Bioenergy,1047.85,1.0478,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014,Waste to Energy,Bioenergy,90.58,0.0906,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2016-17,Waste to Energy,Bioenergy,23.5,0.0235,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2017-18,Waste to Energy,Bioenergy,24.22,0.0242,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2019-20,Waste to Energy,Bioenergy,9.34,0.0093,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2020-21,Waste to Energy,Bioenergy,21.0,0.021,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2021-22,Waste to Energy,Bioenergy,54.5,0.0545,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2022-23,Waste to Energy,Bioenergy,25.0,0.025,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2023-24,Waste to Energy,Bioenergy,1.6,0.0016,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2024-25,Waste to Energy,Bioenergy,59.6,0.0596,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026,Waste to Energy,Bioenergy,324.24,0.3242,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014,Waste to Energy (Off-grid),Bioenergy,139.79,0.1398,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014-15,Waste to Energy (Off-grid),Bioenergy,9.71,0.0097,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2015-16,Waste to Energy (Off-grid),Bioenergy,5.69,0.0057,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2016-17,Waste to Energy (Off-grid),Bioenergy,11.77,0.0118,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2017-18,Waste to Energy (Off-grid),Bioenergy,5.55,0.0056,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2018-19,Waste to Energy (Off-grid),Bioenergy,6.58,0.0066,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2019-20,Waste to Energy (Off-grid),Bioenergy,19.11,0.0191,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2020-21,Waste to Energy (Off-grid),Bioenergy,20.75,0.0208,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2021-22,Waste to Energy (Off-grid),Bioenergy,34.66,0.0347,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2022-23,Waste to Energy (Off-grid),Bioenergy,52.28,0.0523,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2023-24,Waste to Energy (Off-grid),Bioenergy,30.17,0.0302,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2024-25,Waste to Energy (Off-grid),Bioenergy,194.81,0.1948,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026,Waste to Energy (Off-grid),Bioenergy,553.12,0.5531,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014,Total,Total,35849.59,35.8496,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2014-15,Total,Total,4100.5,4.1005,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2015-16,Total,Total,7141.3,7.1413,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2016-17,Total,Total,11466.81,11.4668,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2017-18,Total,Total,12093.24,12.0932,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2018-19,Total,Total,8760.56,8.7606,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2019-20,Total,Total,8843.31,8.8433,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2020-21,Total,Total,7548.11,7.5481,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2021-22,Total,Total,14081.97,14.082,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2022-23,Total,Total,15274.43,15.2744,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2023-24,Total,Total,18484.68,18.4847,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2024-25,Total,Total,28723.65,28.7237,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026-27-1st-apr-2026-31st-march-2027,Total,Total,4317.17,4.3172,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
+MNRE year-wise achievement,2026,Total,Total,227590.59,227.5906,2026-05-19T02:02:59+00:00,https://mnre.gov.in/en/year-wise-achievement/
