@@ -1,14 +1,14 @@
 source,source_url,technology_raw,cumulative_mw,cumulative_gw,current_year_addition_mw,current_year_addition_gw,retrieved_at_utc
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Installed RE Capacity (Capacities in MW),,,,,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Solar Power*,157046.44,157.0464,2810.32,2.8103,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Wind Power,56807.04,56.807,370.45,0.3705,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Biomass (Bagasse) Cogeneration,9821.32,9.8213,,,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Biomass(non-bagasse)Cogeneration,1047.85,1.0478,,,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Waste to Energy,324.24,0.3242,,,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Waste to Energy (off-grid),554.16,0.5542,1.04,0.001,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Small Hydro Power,5179.36,5.1794,0.01,0.0,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Sub Total (Exc. Large Hydro),230780.41,230.7804,3181.82,3.1818,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Large Hydro^,51964.67,51.9647,300.0,0.3,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Total RE,282745.08,282.7451,3481.82,3.4818,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Nuclear Power#,8780.0,8.78,,,2026-06-13T02:05:59+00:00
-MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Total Non-Fossil,291525.08,291.5251,3481.82,3.4818,2026-06-13T02:05:59+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Installed RE Capacity (Capacities in MW),,,,,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Solar Power*,157046.44,157.0464,2810.32,2.8103,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Wind Power,56807.04,56.807,370.45,0.3705,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Biomass (Bagasse) Cogeneration,9821.32,9.8213,,,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Biomass(non-bagasse)Cogeneration,1047.85,1.0478,,,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Waste to Energy,324.24,0.3242,,,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Waste to Energy (off-grid),554.16,0.5542,1.04,0.001,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Small Hydro Power,5179.36,5.1794,0.01,0.0,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Sub Total (Exc. Large Hydro),230780.41,230.7804,3181.82,3.1818,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Large Hydro^,51964.67,51.9647,300.0,0.3,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Total RE,282745.08,282.7451,3481.82,3.4818,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Nuclear Power#,8780.0,8.78,,,2026-06-16T02:36:19+00:00
+MNRE physical progress,https://mnre.gov.in/en/physical-progress/,Total Non-Fossil,291525.08,291.5251,3481.82,3.4818,2026-06-16T02:36:19+00:00
