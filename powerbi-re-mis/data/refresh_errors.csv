@@ -1,8 +1,8 @@
 source,status,message,retrieved_at_utc
-cea_report_links,error,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",2026-06-28T02:10:21+00:00
-pm_surya_ghar,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-06-28T02:10:30+00:00
-pm_kusum,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-06-28T02:10:45+00:00
+cea_report_links,error,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",2026-07-01T02:10:34+00:00
+pm_surya_ghar,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-07-01T02:10:43+00:00
+pm_kusum,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-07-01T02:10:59+00:00
 nsgm_smart_meters,error,"Page.goto: Timeout 90000ms exceeded.
 Call log:
   - navigating to ""https://www.nsgm.gov.in/en/sm-stats-all"", waiting until ""domcontentloaded""
-",2026-06-28T02:12:15+00:00
+",2026-07-01T02:12:29+00:00
