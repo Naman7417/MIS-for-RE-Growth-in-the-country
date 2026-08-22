@@ -1,10 +1,8 @@
 source,status,message,retrieved_at_utc
-mnre_physical_progress,error,"HTTPSConnectionPool(host='mnre.gov.in', port=443): Max retries exceeded with url: /en/physical-progress/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)')))",2026-08-19T00:42:22+00:00
-mnre_year_wise_achievement,error,"HTTPSConnectionPool(host='mnre.gov.in', port=443): Max retries exceeded with url: /en/year-wise-achievement/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)')))",2026-08-19T00:42:24+00:00
-nghm_projects,error,"HTTPSConnectionPool(host='nghm.mnre.gov.in', port=443): Max retries exceeded with url: /project?language=en (Caused by ConnectTimeoutError(<HTTPSConnection(host='nghm.mnre.gov.in', port=443) at 0x7fec07fa25d0>, 'Connection to nghm.mnre.gov.in timed out. (connect timeout=45)'))",2026-08-19T00:43:16+00:00
-pm_surya_ghar,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-08-19T00:43:24+00:00
-pm_kusum,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-08-19T00:43:40+00:00
+nghm_projects,error,"HTTPSConnectionPool(host='nghm.mnre.gov.in', port=443): Max retries exceeded with url: /project?language=en (Caused by ConnectTimeoutError(<HTTPSConnection(host='nghm.mnre.gov.in', port=443) at 0x7fa8dcada490>, 'Connection to nghm.mnre.gov.in timed out. (connect timeout=45)'))",2026-08-22T00:32:54+00:00
+pm_surya_ghar,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-08-22T00:33:03+00:00
+pm_kusum,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-08-22T00:33:19+00:00
 nsgm_smart_meters,error,"Page.goto: Timeout 90000ms exceeded.
 Call log:
   - navigating to ""https://www.nsgm.gov.in/en/sm-stats-all"", waiting until ""domcontentloaded""
-",2026-08-19T00:45:10+00:00
+",2026-08-22T00:34:49+00:00
