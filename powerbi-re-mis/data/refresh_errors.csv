@@ -1,8 +1,8 @@
 source,status,message,retrieved_at_utc
-nghm_projects,error,"HTTPSConnectionPool(host='nghm.mnre.gov.in', port=443): Max retries exceeded with url: /project?language=en (Caused by ConnectTimeoutError(<HTTPSConnection(host='nghm.mnre.gov.in', port=443) at 0x7fe4a50225d0>, 'Connection to nghm.mnre.gov.in timed out. (connect timeout=45)'))",2026-09-28T02:17:57+00:00
-pm_surya_ghar,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-09-28T02:18:05+00:00
-pm_kusum,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-09-28T02:18:19+00:00
+nghm_projects,error,"HTTPSConnectionPool(host='nghm.mnre.gov.in', port=443): Max retries exceeded with url: /project?language=en (Caused by ConnectTimeoutError(<HTTPSConnection(host='nghm.mnre.gov.in', port=443) at 0x7f5df082a5d0>, 'Connection to nghm.mnre.gov.in timed out. (connect timeout=45)'))",2026-10-01T02:49:42+00:00
+pm_surya_ghar,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-10-01T02:49:50+00:00
+pm_kusum,error,`Import html5lib` failed.  Use pip or conda to install the html5lib package.,2026-10-01T02:50:03+00:00
 nsgm_smart_meters,error,"Page.goto: Timeout 90000ms exceeded.
 Call log:
   - navigating to ""https://www.nsgm.gov.in/en/sm-stats-all"", waiting until ""domcontentloaded""
-",2026-09-28T02:19:49+00:00
+",2026-10-01T02:51:34+00:00
